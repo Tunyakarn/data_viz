@@ -5,3 +5,6 @@
 ตัวอย่างการแทรกรูป
 
 ![KKUlogo](KKUlogo.png)
+
+ขั้นตอนการบันทึก colab ไปยัง github
+
